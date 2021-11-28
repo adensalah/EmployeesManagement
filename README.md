@@ -13,10 +13,10 @@ To build this project, use the "gradle build" command or use "Import Project" in
 ### Perequisties
 Target API version: 21+
 
-## Resources
+<!-- ## Resources
 
 We benefited from this piece of code to create an EditText with bullets to give the employee notes an organized look.
-https://gist.github.com/outlander24/771d8d6f0801cb6e9fabc1c03a9f5c5b#file-customedittextwithbullets-java
+https://gist.github.com/outlander24/771d8d6f0801cb6e9fabc1c03a9f5c5b#file-customedittextwithbullets-java -->
 ### Screenshot
 
 <p align="center">
