@@ -28,9 +28,9 @@ https://gist.github.com/outlander24/771d8d6f0801cb6e9fabc1c03a9f5c5b#file-custom
   <img src="https://user-images.githubusercontent.com/24296815/44613140-cf423a80-a80f-11e8-9330-01e3e284c38c.png" width="150" height="250">
 </p>
 
-### License
+<!-- ### License
 [![](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AyaAshrafSABER/EmployeesManagementSoftware) Copyright (c) 2018 AYA ASHRAF SABER MOHAMED <a href="https://github.com/AyaAshrafSABER/EmployeesManagementSoftware/blob/master/LICENSE">License.md</a>
-
+ -->
 
 ## Development & Contribution
 
